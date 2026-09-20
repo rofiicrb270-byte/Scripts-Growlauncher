@@ -220,7 +220,7 @@ const premiumLibrary = [
         name: "AUTO ANSWER MATH🧠",
         category: "SC= 0/3 SLOTS - CLOSED WHEN FULL",
         description: "AUTO ANSWER MATH 0.1 seconds",
-        price: "Rp 15.000",
+        price: "Rp 10.000",
         icon: "💎"
     },
     {
